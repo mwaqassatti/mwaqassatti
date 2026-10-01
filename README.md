@@ -7,8 +7,7 @@ production environments.
 
 📱 Android · Kotlin · Jetpack Compose  
 ⚡ Flutter · React Native  
-🏗️ Clean Architecture · MVVM · CI/CD  
-🌍 MENA · US · KSA
+🏗️ Clean Architecture · MVVM · CI/CD
 
 [LinkedIn](www.linkedin.com/in/muhammad-waqas-94420187) · [Email](waqas7tiksa@gmail.com)
 
@@ -29,7 +28,7 @@ services into a unified mobile application using server-driven UI.
 ### 🏛️ Ithra
 **Native Android · Kotlin · MVVM · Clean Architecture**
 
-Android application developed for Ithra, with a focus on scalable architecture
+Android application developed for Ithra (a project of Saudi Aramco), with a focus on scalable architecture
 and server-driven UI.
 
 ### 🎭 TSS — The Secret Society
